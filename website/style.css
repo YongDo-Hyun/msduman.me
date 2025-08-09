@@ -1,0 +1,63 @@
+#body {
+    background: rgba(173, 216, 230, 0.5);
+    opacity: 1;
+}
+
+#h1 {
+    border-style: solid;
+    border-width: medium;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto 40px auto;
+}
+
+#h21 {
+    border-style: solid;
+    border-width: medium;
+    border-radius: 25px;
+    padding-top: 17px;
+    padding-right: 17px;
+    padding-bottom: 17px;
+    padding-left: 17px;
+    width: 200px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto 20px auto;
+}
+
+#h22 {
+    border-style: solid;
+    border-width: medium;
+    border-radius: 25px;
+    padding-top: 17px;
+    padding-right: 25px;
+    padding-bottom: 17px;
+    padding-left: 25px;
+    width: 400px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto 20px auto;
+}
+
+#h23 {
+    border-style: solid;
+    border-width: medium;
+    border-radius: 25px;
+    padding-top: 17px;
+    padding-right: 17px;
+    padding-bottom: 17px;
+    padding-left: 17px;
+    width: 200px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto 20px auto;
+}
